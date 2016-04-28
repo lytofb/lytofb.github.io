@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
-  
+  <title>永无止境</title>
+  <subtitle>扫地一瞬的博客</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-04-09T13:28:53.505Z</updated>
+  <updated>2016-04-27T13:15:35.330Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>crocodile_qu</name>
     
   </author>
   
@@ -20,14 +20,20 @@
     <link href="http://yoursite.com/2016/04/09/doge/"/>
     <id>http://yoursite.com/2016/04/09/doge/</id>
     <published>2016-04-09T13:28:53.000Z</published>
-    <updated>2016-04-09T13:28:53.505Z</updated>
+    <updated>2016-04-27T13:15:35.330Z</updated>
     
-    <content type="html"></content>
+    <content type="html">&lt;p&gt;I’m just testing doge&lt;/p&gt;
+</content>
     
     <summary type="html">
     
+      &lt;p&gt;I’m just testing doge&lt;/p&gt;
+
+    
     </summary>
     
+    
+      <category term="doge" scheme="http://yoursite.com/tags/doge/"/>
     
   </entry>
   
